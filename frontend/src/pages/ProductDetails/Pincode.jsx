@@ -56,7 +56,7 @@ const Pincode = () => {
 
   // function to fetch the next 5th day
   let date = new Date();
-  date.setDate(date.getDay() + 5);
+  date.setDate(date.getDate() + 5);
   let delivery = date.toDateString().slice(0, 11);
 
   const handleChange = () => {
