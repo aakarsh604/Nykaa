@@ -17,13 +17,13 @@
 # Installing and Running
 
 #### To run this application on your local system, execute the following commands on your terminal/command line:
-#### `git clone` https://github.com/AFFAN-AHMAD/funny-week-7983
+#### `git clone` https://github.com/aakarsh604/Nykaa.git
 #### `npm i`
 #### run the server
 #### create a .env file with username and password of mongodb
 
 # Step by Step procedure to run this app using the deployed link
-1) Click on this link  https://shabashclone.vercel.app/
+1) Click on this https://sleek-circle.vercel.app/
 2) You will land on the home page of the website.
 3) Go to navbar, hover on makeup and next go to the Lip column which will redirect you to the products page.
 ![nyka makeup to products](https://user-images.githubusercontent.com/96197969/187852767-6c5f459b-b230-47e3-abe1-68dfa3069183.png)
